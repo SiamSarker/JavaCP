@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6ac1e17-d841-49da-8bd7-68ec76ea000a" name="Changes" comment="Hello World" />
+    <list default="true" id="c6ac1e17-d841-49da-8bd7-68ec76ea000a" name="Changes" comment="Hello World for the last time">
+      <change afterPath="$PROJECT_DIR$/src/P_1712A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +43,7 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.P_1712A">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorld" />
       <module name="JavaCP" />
@@ -48,8 +51,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P_1712A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P_1712A" />
+      <module name="JavaCP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P_1712A" />
         <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
@@ -62,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660653426659</updated>
-      <workItem from="1660653431294" duration="936000" />
+      <workItem from="1660653431294" duration="4304000" />
     </task>
     <task id="LOCAL-00001" summary="Hello World">
       <created>1660653596231</created>
@@ -85,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660653922265</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Hello World for the last time">
+      <created>1660655630947</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660655630947</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +122,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hello World" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hello World" />
+    <MESSAGE value="Hello World for the last time" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello World for the last time" />
   </component>
 </project>
