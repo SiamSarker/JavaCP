@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c6ac1e17-d841-49da-8bd7-68ec76ea000a" name="Changes" comment="P_1712A">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +43,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P_1712A">
+  <component name="RunManager" selected="Application.HelloWorld">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorld" />
       <module name="JavaCP" />
@@ -59,8 +60,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P_1712A" />
         <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.P_1712A" />
       </list>
     </recent_temporary>
   </component>
@@ -74,6 +75,8 @@
       <updated>1660653426659</updated>
       <workItem from="1660653431294" duration="4390000" />
       <workItem from="1660746663479" duration="141000" />
+      <workItem from="1661832811068" duration="261000" />
+      <workItem from="1664134151964" duration="222000" />
     </task>
     <task id="LOCAL-00001" summary="Hello World">
       <created>1660653596231</created>
@@ -110,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660660649796</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="P_1712A">
+      <created>1661832820346</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661832820346</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
